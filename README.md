@@ -18,11 +18,11 @@ apt install curl
 
 curl https://raw.githubusercontent.com/Amanbytes/Termux-For-Downloading-Videos/main/downloader_settings.sh -o downloader_settings.sh
 
-chmod +x youtube.sh
+chmod +x downloader_settings.sh
 
-dos2unix youtube.sh
+dos2unix downloader_settings.sh
 
-./youtube.sh
+./downloader_settings.sh
 
 ```
 * After this, just share videos to Termux app from any platform and press the Enter to download the video in best quality available. 
