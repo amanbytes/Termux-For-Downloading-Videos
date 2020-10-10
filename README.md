@@ -12,7 +12,7 @@ A video downloader for android using Termux application with youtube-dl plugins.
   
 * Open Termux App and type this line of code  
 ```
-apt update
+apt update && apt upgrade
 
 apt install curl
 
